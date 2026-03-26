@@ -13,8 +13,6 @@ A Web app grocery store built using Java (Spring Boot Framework) and Mysql.
 - tomcat server
 - Mysql
 
-## Screenshots
-
 ## How to Run the Web App
 1. Clone the repository into a folder.
 2. Open Spring Tool Suite(STS) IDE.
