@@ -16,6 +16,23 @@ A Web app grocery store built using Java (Spring Boot Framework) and Mysql.
 ## Screenshots
 ![view only page](screenshots/viewpage.png)
 
+![Login Screen](screenshots/login.png)
+
+![Home 1 Screen](screenshots/home1.png)
+
+![Home 2 Screen](screenshots/home2.png)
+
+![Item details Screen](screenshots/details2.png)
+
+![Add to Cart Screen](screenshots/addtocart1.png)
+
+![Checkout Screen](screenshots/checkout.png)
+
+![Ordered Items Screen](screenshots/ordered-items.png)
+
+![User Profile Screen](screenshots/user-info.png)
+
+
 ## How to Run the Web App
 1. Clone the repository into a folder.
 2. Open Spring Tool Suite(STS) IDE.
